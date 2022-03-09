@@ -3,6 +3,6 @@
 This project is Mobile Application for Intelligent Dental Shade Matching
 
 
-![pic](.PNG)
+(Flowchart.png)
 
 
