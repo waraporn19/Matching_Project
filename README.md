@@ -10,9 +10,12 @@ This project is Mobile Application for Intelligent Dental Shade Matching.
 ### 1. Must have anaconda or miniconda.
 ### 2. Installation 
       - conda install pandas
+      - python -m pip install pandas
       - pip install flask
       - pip install opencv-python
       - pip install Pillow
+      - pip install matplotlib
+      - pip install scikit-learn
 ### 3. Create an API according to this order.
       - Create a file named API.py 
       - Upload a model to the predict.
