@@ -20,5 +20,5 @@ This project is Mobile Application for Intelligent Dental Shade Matching.
       - Create a file named app.py 
       - Upload a model to the predict.
 ### 4. Use the command to make a file API.py to be able to use.
-      - python --img file image.png
+      - python app.py
 ### 5. Finish
