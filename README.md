@@ -3,7 +3,7 @@
 This project is Mobile Application for Intelligent Dental Shade Matching.
 
 
-![pic](Flowchart.png)
+![pic](Flowchart.jpg)
 
 ## How to setup API Matching shade guide. 
 
