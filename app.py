@@ -11,7 +11,7 @@ app = Flask(__name__)
 
 web = os.path.dirname(os.path.abspath(__file__))
 
-with open('Model_A2_rgb2.pkl', 'rb') as pickle_file :
+with open('Model_SVM_C2.pkl', 'rb') as pickle_file :
     new_data = pickle.load(pickle_file)
     
 # routes
@@ -33,8 +33,8 @@ def get_output():
 
     S5RGB_imgA1A1_1 = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
-    S5meanrefA1_1 =  S5RGB_imgA1A1_1[1710:1821,1710:1821]  
-    S5meanA1_2 = S5RGB_imgA1A1_1[1710:1821,2030:2141]
+    S5meanrefA1_1 =  S5RGB_imgA1A1_1[1711:1822,1710:1821]  
+    S5meanA1_2 = S5RGB_imgA1A1_1[1711:1822,2030:2141]
     S5refA1_1 = np.reshape(S5meanrefA1_1,(111*111, 3))
     S5refA1_2 = np.reshape(S5meanA1_2,(111*111, 3))
     Rref = S5refA1_1[:,0].mean()
