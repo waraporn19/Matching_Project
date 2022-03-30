@@ -17,9 +17,9 @@ This project is Mobile Application for Intelligent Dental Shade Matching.
       - pip install matplotlib
       - pip install scikit-learn
   
-### 3. Create an API according to this order.
-      - Create a file named app.py 
-      * ### Upload a model to the predict : [[code]] (https://github.com/waraporn19/Matching_Project/blob/main/Model_SVM_C2.pkl)
+* ## 3. Create an API according to this order.
+  * ### Create a file named app.py 
+  * ### Upload a model to the predict : [[code]](https://github.com/waraporn19/Matching_Project/blob/main/Model_SVM_C2.pkl)
       
 ### 4. Use the command to make a file API.py to be able to use.
       - python app.py
