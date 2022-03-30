@@ -8,7 +8,7 @@ This project is Mobile Application for Intelligent Dental Shade Matching.
 ## How to setup API Matching shade guide. 
 
 ### 1. Must have anaconda or miniconda.
-### 2. Installation : [[code]]- conda install pandas
+### 2. Installation : [[code]] conda install pandas
       - python -m pip install pandas
       - pip install flask
       - pip install opencv-python
