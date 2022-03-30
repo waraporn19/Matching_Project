@@ -1,0 +1,7 @@
+  - conda install pandas
+  - python -m pip install pandas
+  - pip install flask
+  - pip install opencv-python
+  - pip install Pillow
+  - pip install matplotlib
+  - pip install scikit-learn
