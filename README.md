@@ -7,8 +7,8 @@ This project is Mobile Application for Intelligent Dental Shade Matching.
 
 # How to setup API Matching shade guide. 
 
-* ##1. Must have anaconda or miniconda.
-* ## 2. Installation
+* ## 1. Must have anaconda or miniconda.
+* ## 2. Installation  : [[code]](https://github.com/waraporn19/Matching_Project/blob/main/Installation)
 * ## 3. Create an API according to this order.
   * ### Create a file named app.py  : [[code]](https://github.com/waraporn19/Matching_Project/blob/main/app.py)
   * ### Upload a model to the predict : [[code]](https://github.com/waraporn19/Matching_Project/blob/main/Model_SVM_C2.pkl)
