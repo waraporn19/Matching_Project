@@ -1,0 +1,17 @@
+﻿ชื่อเฉดไกด์,ค่าสี CIE l a b,โทนสี,ชื่อเฉดไกด์ที่ใกล้เคียง,เทียบเท่าเฉดไกด์ 3D Master
+A1,"(79.57,-1.61,13.05)",Reddish-brownish,B1 B2,0M1 0M3
+A2,"(76.04,-0.08,16.73)",Reddish-brownish,B2 A3,0M2 1M2
+A3,"(75.36,1.36,19.61)",Reddish-brownish,D2 A2,1M2 0M2
+A3.5,"(72.31,1.48,21.81)",Reddish-brownish,D3 B4,2R1.5 2M2
+A4,"(68.56,1.58,21)",Reddish-brownish,C3 C2,2M3 2R2.5 
+B1,"(78.9,-1.76,12.33)",Reddish-yellowish,A1 B2,0M1 0M3
+B2,"(76.66,-1.62,16.62)",Reddish-yellowish,A2 A3,1M1 1M2
+B3,"(74.13,0.47,22.34)",Reddish-yellowish,C1 D2,2R2.5 2M2
+B4,"(71.86,0.5,22.15)",Reddish-yellowish,A3.5 D3,1M1 1M2
+C1,"(74.29,-1.26,12.56)",grayish,B3 D2,2R2.5 2M2
+C2,"(70.95,-0.22,16.72)",grayish,B4 D4,2R2.5 2M2
+C3,"(70.95,-0.01,16.68)",grayish,D4 B4,2R1.5 2M2
+C4,"(64.78,1.59,18.66)",grayish,A4 C3,3R2.5 3R1.5
+D2,"(75.27,-0.54,13.47)",reddish-grayish,A3 A2,1M2 0M2
+D3,"(72.55,0.62,16.14)",reddish-grayish,D4 B4,1M1 2R1.5
+D4,"(71.86,-1.03,17.77)",reddish-grayish,A3.5 D3,2R1.5 2M2
