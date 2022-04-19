@@ -74,5 +74,4 @@ def display_image(image_target):
     return redirect(url_for('static', filename='upload_pic/' + image_target), code=301)
 
 if __name__ =='__main__':
-	#app.debug = True
 	app.run()
