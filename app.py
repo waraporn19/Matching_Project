@@ -5,7 +5,8 @@ import os
 import pickle 
 import cv2
 import pandas
-from matplotlib import pyplot as plt 
+from matplotlib import pyplot as plt
+ 
 
 app = Flask(__name__)
 
@@ -73,5 +74,5 @@ def get_output():
 def display_image(image_target):
     return redirect(url_for('static', filename='upload_pic/' + image_target), code=301)
 
-if __name__ =='__main__':
+if __name__ =='__main__': 
 	app.run()
